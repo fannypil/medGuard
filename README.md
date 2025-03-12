@@ -1,7 +1,8 @@
 # **MedGuard**
 ---
+
 ## **Project Overview**
-MedGuard is an IoT-driven health monitoring system designed to track patient vitals, including heart rate and body temperature, in real-time. Using MQTT protocol. The system includes multiple sensor-based modules and a graphical monitoring interface, ensuring real-time alerts in case of abnormal readings.
+MedGuard is an IoT-driven health monitoring system designed to track patient vitals, including heart rate and body temperature, in real-time using the MQTT protocol. The system includes multiple sensor-based modules and a graphical monitoring interface, ensuring real-time alerts in case of abnormal readings.
 ---
 
 ## **Features**
@@ -42,7 +43,7 @@ MedGuard is an IoT-driven health monitoring system designed to track patient vit
 
 ---
 
-## **🚀 Installation Guide
+## **🚀 Installation Guide**
 
 ### **Prerequisites**
 Ensure the following dependencies are installed:  
@@ -59,7 +60,7 @@ Ensure the following dependencies are installed:
     cd medGuard
     ```
 
-2️⃣ **Set Up a Virtual Environment:**:
+2️⃣ **Set Up a Virtual Environment**:
     ```sh
     python -m venv venv
     source venv/bin/activate  # On Windows use `venv\Scripts\activate`
@@ -95,7 +96,7 @@ Ensure the following dependencies are installed:
     python MonitorGUI.py
     ```
 
-💡 **Tip:** Run each component in a **separate terminal window** for smooth operation.
+> 💡 **Tip:** Run each component in a **separate terminal window** for smooth operation.
 
 ---
 ## **🖥 System Flow**

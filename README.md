@@ -68,7 +68,7 @@ Ensure the following dependencies are installed:
 
 3️⃣ **Install required packages**:
     ```sh
-    pip install -r requirements.txt
+        pip install PyQt5 paho-mqtt
     ```
 
 4️⃣ **Run the Manager**:

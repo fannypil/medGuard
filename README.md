@@ -1,4 +1,3 @@
-# MedGuard
 # **MedGuard**
 ---
 

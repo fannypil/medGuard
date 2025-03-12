@@ -55,46 +55,45 @@ Ensure the following dependencies are installed:
 ### **Setup Instructions**
 
 1️⃣ **Clone the repository**:
-    ```sh
-    git clone <repository-url>
-    cd medGuard
-    ```
-
+```sh
+git clone <repository-url>
+cd medGuard
+```
 2️⃣ **Set Up a Virtual Environment**:
-    ```sh
-    python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-    ```
+```sh
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
 
 3️⃣ **Install required packages**:
-    ```sh
-        pip install PyQt5 paho-mqtt
-    ```
+```sh
+pip install PyQt5 paho-mqtt
+```
 
 4️⃣ **Run the Manager**:
-    ```sh
-    python app_manager.py
-    ```
+```sh
+python app_manager.py
+```
 
 5️⃣ **Run the Emergency Button GUI**:
-    ```sh
-    python BUTTON.py
-    ```
+```sh
+python BUTTON.py
+```
 
 6️⃣ **Run the Heart Rate Detector GUI**:
-    ```sh
-    python HBDet.py
-    ```
+```sh
+python HBDet.py
+```
 
 7️⃣ **Run the Temperature Detector GUI**:
-    ```sh
-    python TDet.py
-    ```
+```sh
+python TDet.py
+```
 
 8️⃣ **Open Monitoring Dashboard**:
-    ```sh
-    python MonitorGUI.py
-    ```
+```sh
+python MonitorGUI.py
+```
 
 > 💡 **Tip:** Run each component in a **separate terminal window** for smooth operation.
 

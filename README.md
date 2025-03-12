@@ -1,6 +1,5 @@
 # **MedGuard**
 ---
-
 ## **Project Overview**
 MedGuard is an IoT-driven health monitoring system designed to track patient vitals, including heart rate and body temperature, in real-time. Using MQTT protocol. The system includes multiple sensor-based modules and a graphical monitoring interface, ensuring real-time alerts in case of abnormal readings.
 ---

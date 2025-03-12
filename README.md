@@ -1,4 +1,4 @@
-# **MedGuard**
+# **🩺MedGuard**
 ---
 
 ## **Project Overview**

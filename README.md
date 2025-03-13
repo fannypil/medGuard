@@ -92,7 +92,7 @@ python app_manager.py
 ---
 ## **🖥 System Flow**
 
-1️⃣ **Sensors collect health data** and send readings to the MQTT broker.
+1️⃣ **Sensors collect health data** and send readings to the MQTT broker.  
 2️⃣ The **emergency button**  triggers alerts via MQTT when pressed.  
 3️⃣ The **monitoring dashboard** displays real-time data and alerts, updating automatically with new sensor readings.  
 4️⃣ The **MQTT client** processes incoming messages and stores health data in the **SQLite database**.  

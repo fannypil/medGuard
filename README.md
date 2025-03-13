@@ -82,8 +82,8 @@ python app_manager.py
 
 | Module             | Command                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Emergency Button |``` python BUTTON.py``` |
-| Heart Rate Monitor |``` python HBDet.py``` |
+| Emergency Button |```python BUTTON.py``` |
+| Heart Rate Monitor |```python HBDet.py``` |
 | Temperature Monitor |```python TDet.py``` |
 | Patient Monitoring Dashboard |```python MonitorGUI.py```|
 

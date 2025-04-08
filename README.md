@@ -105,6 +105,14 @@ python app_manager.py
 - Stored data includes **timestamps, topics, and messages** for better tracking and analysis.  
 ---
 
+## 📸 Demo
+
+
+https://github.com/user-attachments/assets/46be16af-7f41-4a37-8823-69005789db87
+
+
+---
+
 ## 💡Acknowledgements
 - This project was developed as part of an IoT coursework.
 - [Paho MQTT](https://www.eclipse.org/paho/index.php?page=clients/python/index.php)
